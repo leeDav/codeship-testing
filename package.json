@@ -1,0 +1,23 @@
+{
+  "name": "codeship-testing",
+  "version": "1.0.0",
+  "description": "Testing CodeShip",
+  "main": "index.js",
+  "dependencies": {
+    "rand": "0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leeDav/codeship-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeDav/codeship-testing/issues"
+  },
+  "homepage": "https://github.com/leeDav/codeship-testing"
+}
